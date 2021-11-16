@@ -77,10 +77,11 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "^1.0.12",
-    "react-native-reanimated": "^1.0.0",
+    "react-native-gesture-handler": "^1.10.2",
+    "react-native-reanimated": "^2.2.4",
     "react-native-screens": "^1.0.0 || ^1.0.0-alpha",
-    "react-navigation": "^4.0.7"
+    "react-navigation": "^4.0.7",
+    "react-navigation-stack": "^2.10.4"
   },
   "jest": {
     "preset": "react-native",
